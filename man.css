@@ -1,0 +1,12 @@
+body{
+    background: black;
+}
+p{
+    background: url(https://media.giphy.com/media/3LdRUmz6zjfgp9b2hd/giphy.gif )
+    no-repeat;
+    background-attachment: fixed;
+    background-clip: help;
+    font-size: 13px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

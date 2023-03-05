@@ -1,0 +1,54 @@
+body {
+    background-color: #1b1b1b;
+    margin: 20%;
+  
+  }
+  
+  .heart {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    margin: auto;
+    transform: rotate(45deg);
+    filter: drop-shadow(0 0 0.5rem #ff00009a);
+    animation: h 1s infinite;
+  }
+  
+  @keyframes h {
+    0% {
+        width: 150px;
+        height: 150px;
+    }
+    50% {
+        width: 200px;
+        height: 200px;
+    }
+    100% {
+        width: 150px;
+        height: 150px;
+    }
+  }
+  
+  .red {
+    position: absolute;
+    width: 66%;
+    height: 66%;
+    background-color: red;
+  }
+  
+  .c1 {
+    bottom: 0;
+    left: 0;
+    border-radius: 50%;
+  }
+  .c2 {
+    top: 0;
+    right: 0;
+    border-radius: 50%;
+  }
+  .r {
+    bottom: 0;
+    right: 0;
+  }
+  
+  

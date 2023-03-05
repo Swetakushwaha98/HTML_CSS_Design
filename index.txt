@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: black;
+        }
+        a{
+            color: #149414;
+            
+            text-decoration: none;
+            font-size: 30px;   
+      }
+        .a{height: 80px; width: 1240px; 
+            /* background: rgb(242, 198, 242);  */
+            /* border: 2px solid white;  */
+            position: absolute;
+            left: 20px; top: 20px;}
+        .b{height: 450px; width: 200px; 
+            /* background: pink;  */
+            border: 2px solid white; 
+            position: absolute;
+            left: 200px; top: 120px;}
+        .c{height: 450px; width: 200px; 
+            /* background: rgb(205, 187, 187);  */
+            border: 2px solid white; 
+            position: absolute;
+            left: 540px; top: 120px;}
+        .d{height: 450px; width: 200px; 
+            /* background: rgb(153, 148, 139);  */
+            border: 2px solid white; 
+            position: absolute;
+            left: 860px; top: 120px;}
+     .head{
+                text-align: center;
+                color: orangered;
+            }
+            .headshot{
+                color: gray;
+                text-align: center;
+            }
+    </style>
+</head>
+<body>
+    <div class="a">
+        <h1 class="head">HTML & CSS Designs</h1>
+        <h5 class="headshot">Click any Link</h5>
+    </div>
+    <div class="b">
+        <a href="3D calender.html" target="_blank">3D calender</a><br>
+        <a href="3Dball.html"  target="_blank">3D Ball</a><br>
+        <a href="3Ddrop.html" target="_blank">3D Drop</a><br>
+        <a href="9dot.html"  target="_blank">9 Dot</a><br>
+        <a href="Avatar.html"  target="_blank">Avatar Poster</a><br>
+        <a href="beer.html"  target="_blank">Error Page</a><br>
+        <a href="button.html"  target="_blank">Button</a><br>
+        <a href="calender.html"  target="_blank">calender</a><br>
+        <a href="car.html"  target="_blank">car</a><br>
+        <a href="propose.html" target="_blank">Propose</a><br>
+        <!-- <a href="profilecard.html" target="_blank">Profile card</a><br> -->
+        <a href="card.html"  target="_blank">Card</a>
+
+    </div>
+    <div class="c">
+        <a href="card2.html"  target="_blank">Profile card</a><br>
+        <a href="css-loader-2.html"  target="_blank">car</a><br>
+        <a href="css-loader-4.html"  target="_blank">car</a><br>
+        <a href="css-loader-6.html"  target="_blank">car</a><br>
+        <a href="css-loader-7.html"  target="_blank">car</a><br>
+        <a href="css-loader-8.html" target="_blank">car</a><br>
+        <a href="cube.html"  target="_blank">Cube</a><br>
+        <a href="cube2.html"  target="_blank">Cube</a><br>
+        <a href="rubikcube.html"  target="_blank">Rubikcube</a><br>
+        <a href="teddy.html"  target="_blank">Teddy</a><br>
+        <a href="valentineday.html"  target="_blank">valentineday</a><br>
+
+    </div>
+    <div class="d">
+        <a href="form.html"  target="_blank">Form</a><br>
+        <a href="Googlepage.html"  target="_blank">Googlepage</a><br>
+        <a href="heart.html"  target="_blank">heart</a><br>
+        <a href="heartrate.html"  target="_blank">heartrate</a><br>
+        <a href="hex.html"  target="_blank">hex</a><br>
+        <a href="HexagonHover.html"  target="_blank">Hexagon</a><br>
+        <a href="lyer.html"  target="_blank">layer</a><br>
+        <!-- <a href="man.html">man</a><br> -->
+        <a href="menu.html"  target="_blank">Menu</a><br>
+        <a href="neonbutton.html" target="_blank">Neonbutton</a><br>
+        <a href="new.html"  target="_blank">New</a><br>
+        <a href="plant.html" target="_blank">Plant</a><br>
+        <a href="police.html" target="_blank">police</a><br>
+       
+        
+
+    </div>
+   
+</html>
